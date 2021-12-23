@@ -5753,3 +5753,7 @@ pre {
   height: 100%;
   pointer-events: none;
 }
+
+.extra {
+  text-transform: none;
+}
